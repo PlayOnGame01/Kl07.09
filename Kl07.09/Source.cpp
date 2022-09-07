@@ -23,6 +23,8 @@ public:
 int main()
 {
     setlocale(LC_ALL, "RUS");
+    Point a;
+    Person b;
 
 
 }
