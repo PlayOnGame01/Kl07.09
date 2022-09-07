@@ -12,6 +12,18 @@ public:
 
     }
 };
+
+class Univercity
+{
+    Person* name;
+    int age;
+public:
+    Univercity()
+    {
+
+    }
+};
+
 class Point
 {
     int x, y;
@@ -19,6 +31,7 @@ public:
     Point()
     {}
 };
+
 
 int main()
 {
