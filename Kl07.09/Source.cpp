@@ -15,7 +15,7 @@ public:
 
 class Univercity
 {
-    Person* name;
+    Person* Academy;
     int age;
 public:
     Univercity()
