@@ -12,7 +12,13 @@ public:
 
     }
 };
-
+class Point
+{
+    int x, y;
+public:
+    Point()
+    {}
+};
 
 int main()
 {
